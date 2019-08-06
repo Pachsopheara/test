@@ -1,0 +1,2 @@
+ls= list
+touch= touch index.php = make file
